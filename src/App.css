@@ -1,0 +1,26 @@
+form {
+  display: block !important;
+}
+input {
+  margin: 1.2rem 0;
+  width: 100%;
+}
+input[type="text"] {
+  display: block;
+  width: 100%;
+  padding: 0.4rem;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+  outline-color: var(--primary);
+}
+.row span {
+  font-size: 1.2rem;
+}
+.mb-5rem {
+  margin-bottom: 5.5rem !important;
+}
+@media screen and (max-width: 768px) {
+  .container {
+    margin-left: 0.5rem;
+  }
+}
