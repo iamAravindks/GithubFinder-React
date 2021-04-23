@@ -12,4 +12,4 @@ Githubfinder is made by using,
 ## Features
 
 - You can serach about a user
-- click on the More Button , It will shows you the important details About that person
+- Click on the More Button , It will shows you the important details About that person
